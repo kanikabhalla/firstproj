@@ -1,3 +1,4 @@
 ## SPRING BOOT PROJECT
-Spring boot is a very good framework
-excellent library support
+Spring boot is a very good and an interesting framework
+excellent library support with Awesome maven dependencies 
+
